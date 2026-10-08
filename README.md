@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chenwei (Felix) Wan
 
-<!--
-**FelixWan777/FelixWan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate at Washington University in St. Louis, graduating in May 2029.
 
-Here are some ideas to get you started:
+I'm interested in machine learning, statistical modeling, and their applications in finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+- **NFL Big Data Bowl 2026**  
+  Player trajectory forecasting using GRU and Transformer models. Placed 235th out of 1,899 participants and earned a bronze medal.
+
+- **Home Credit — Credit Risk Model Stability**  
+  Team project involving credit data preprocessing and feature engineering. Reached the top 1,000 on the public leaderboard for two weeks during the competition.
+
+## Tools
+
+Python · R · Java · Optuna · Excel
